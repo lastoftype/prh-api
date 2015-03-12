@@ -1,0 +1,20 @@
+{
+  "name": "prh-api-class",
+  "version": "0.0.1",
+  "authors": [
+    "Matt Unhjem <lastoftype@users.noreply.github.com>"
+  ],
+  "description": "A simple PHP class for the Penguin Random House API",
+  "main": "prh-api.php",
+  "license": "MIT",
+  "homepage": "http://mattunhjem.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
